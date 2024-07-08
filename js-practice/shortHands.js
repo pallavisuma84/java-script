@@ -1,0 +1,5 @@
+/////////////////////////////////using ternary operator////////////////////
+let partyId
+console.log(partyId?partyId:"null");
+//////////////////////////short hand for ternary operator/////////////////
+console.log(partyId??"null")
